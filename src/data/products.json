@@ -1,0 +1,4206 @@
+{
+  "data": {
+    "product": [
+      {
+        "url": "https://www.usereserva.com/polo-piquet-classica0066064/p?skuId=388126",
+        "identifier": "0066064810",
+        "name": "polo piquet classica",
+        "parent_identifier": "66064",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bdfe1759-c122-48aa-92f2-0734cb844796-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camisa-pf-mc-linho-praia0073607/p?skuId=411251",
+        "identifier": "0073607037",
+        "name": "camisa pf mc linho praia",
+        "parent_identifier": "0073607",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_496a5f0d-2424-41ff-b256-a457daf5f0e7-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-jeans-jogger-city0071251/p?skuId=433892",
+        "identifier": "0071251330",
+        "name": "calca jeans jogger city",
+        "parent_identifier": "0071251",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_39116f35-cb4d-4c4e-a0bb-10a65f27ba71-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-jeans-slim-caribe-grey0071650/p?skuId=443451",
+        "identifier": "0071650020",
+        "name": "calca jeans slim caribe grey",
+        "parent_identifier": "71650",
+        "thumbnail": "https://lojausereserva.vtexassets.com/arquivos/ids/7654368-1200-auto?v=638194985144900000&width=1200&height=auto&aspect=true",
+        "status": "PROCESSED_ERROR",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-reserva-vazado0071790/p?skuId=443259",
+        "identifier": "0071790010",
+        "name": "camiseta estampada reserva vazado",
+        "parent_identifier": "71790",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_10439039-2d54-48b9-b779-9a9f09ad29b4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/casaco-careca-moletinho0071599/p?skuId=443474",
+        "identifier": "0071599514",
+        "name": "casaco careca moletinho",
+        "parent_identifier": "0071599",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_cad59235-5cc5-4df2-874b-d84846b75f08-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo-jazz-denim0072751/p?skuId=443023",
+        "identifier": "0072751312",
+        "name": "polo jazz denim",
+        "parent_identifier": "72751",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_22469a89-f032-4d14-9ba7-535ca001a56b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/CAMISETA-SPACE-DYE-COM-BOLSO0070949/p?skuId=434120",
+        "identifier": "0070949312",
+        "name": "camiseta space dye com bolso",
+        "parent_identifier": "70949",
+        "thumbnail": "https://lojausereserva.vtexassets.com/arquivos/ids/7835221-800-auto?v=638224861013900000&width=800&height=auto&aspect=true",
+        "status": "PROCESSED_ERROR",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.zapalla.com.br/calca-chinocherry-68300002-593/p",
+        "identifier": "3472",
+        "name": "Calca Chino-Cherry",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_52f70a70-c19e-4e27-ae6b-91e3c36f1e53-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 549,
+        "selling_price": 274.5,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-casual-estampada-madras0073258/p",
+        "identifier": "0073258040",
+        "name": "bermuda casual estampada madras",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_07f08cfe-7716-42a5-bb66-d6c6e960eaef-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.shop2gether.com.br/catalog/product/view/id/2032174/",
+        "identifier": "0069222_BRANCO",
+        "name": "POLO MASCULINA FLAMÊ - BRANCO",
+        "parent_identifier": null,
+        "thumbnail": "https://doris-storage.imgix.net/production/0805c34a-3e89-4aa4-abac-d7b09c26a2cb-outfit-thumbnail.jpg",
+        "status": "PROCESSED_ERROR",
+        "list_price": 269,
+        "selling_price": 269,
+        "active": false,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-elastico-estonado0066177/p?skuId=361546",
+        "identifier": "0066177758",
+        "name": "short elastico estonado",
+        "parent_identifier": "0066177",
+        "thumbnail": "https://doris-storage.imgix.net/production/38e15323-c125-4b5c-9649-a9e990cf53e8-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-navy-color0066465/p?skuId=360733",
+        "identifier": "0066465758",
+        "name": "camiseta navy color",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6dc09d3d-162f-42c1-b109-177366606a03-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 359,
+        "selling_price": 179,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-cerveja0053394/p?skuId=366311",
+        "identifier": "0053394312",
+        "name": "camiseta pica-pau cerveja",
+        "parent_identifier": "0053394",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_21001fdb-bb57-4df5-bd1e-4062e43733a3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camisa-ml-flame-leve-enxuto-conforto-l0067791/p?skuId=376351",
+        "identifier": "0067791043",
+        "name": "camisa ml flame leve enxuto conforto l",
+        "parent_identifier": "0067791",
+        "thumbnail": "https://doris-storage.imgix.net/production/981372fc-eb5d-48ea-9776-a6d499890313-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-degrade-reciclado0070885/p?skuId=434176",
+        "identifier": "0070885040",
+        "name": "camiseta degrade reciclado",
+        "parent_identifier": "0070885",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_39630013-9f8c-44ac-8c2e-b9ff97db3cbd-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-moletom--carpinteiro-stone0065577/p?skuId=413782",
+        "identifier": "0065577010",
+        "name": "bermuda moletom  carpinteiro stone",
+        "parent_identifier": "0065577",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_c09b510c-1e36-449a-b1f6-0ac6c05813ae-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-joa0066566/p?skuId=361256",
+        "identifier": "0066566049",
+        "name": "camiseta joa",
+        "parent_identifier": "0066566",
+        "thumbnail": "https://doris-storage.imgix.net/production/72765ad8-bee9-4eed-b907-4537ea9f3afc-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camisa-polo-de-algodao-com-logo",
+        "identifier": "2525644",
+        "name": "Camisa Polo de algodão com logo",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/65486cae-982a-4b59-99e9-46e635257d75-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 129,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-jeans-cargo-wash-less0066058/p?skuId=400014",
+        "identifier": "0066058330",
+        "name": "calca jeans cargo wash less",
+        "parent_identifier": "0066058",
+        "thumbnail": "https://doris-storage.imgix.net/production/d00c204f-10ae-4c4d-b735-a4fe90a2eaea-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-lugar-de-escuta0067106/p?skuId=410974",
+        "identifier": "0067106010",
+        "name": "Camiseta Estampada Lugar De Escuta",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_e3fc4166-deba-4798-b031-0cd8929ecdd2-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-ft-linho-sol0066601/p?property__DESC_COR_ORIGINAL=AZUL%20CLARO&skuId=360993",
+        "identifier": "0066601312",
+        "name": "camiseta linho sol",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_21f1b537-1367-4d60-9d60-1fd49468e14f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 369,
+        "selling_price": 221,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/blusao-masculino-basico-listrado-em-trico-de-algodao-hering-preto",
+        "identifier": "K0WF4ASI",
+        "name": "Blusão Masculino Básico Listrado Em Tricô De Algodão  HERING Preto",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/b9d9fd9d-1be5-4422-bd81-8bbd5d9aac81-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 159.99,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-nano-pica-pau0075790/p?skuId=432952",
+        "identifier": "0075790014",
+        "name": "Camiseta Estampada Nano Pica Pau",
+        "parent_identifier": "75790",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_3d436a2b-51e8-4a20-b890-a42a1425b6fd-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/casaco-com-capuz-moletinho0070588/p?skuId=442881",
+        "identifier": "0070588056",
+        "name": "casaco com capuz moletinho",
+        "parent_identifier": "0070588",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_c56a0788-a2cf-47ed-9673-1cee1f20dc26-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-praia-estampado-pitaya-flower0066341/p?skuId=361540",
+        "identifier": "0066341040",
+        "name": "short praia estampado pitaya flower",
+        "parent_identifier": "0066341",
+        "thumbnail": "https://doris-storage.imgix.net/production/3cc40cfb-5fb9-4cc1-b3a3-a7084148c7b7-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-listrado-canhamo0071337/p?skuId=433817",
+        "identifier": "0071337503",
+        "name": "camiseta listrado canhamo",
+        "parent_identifier": "71337",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_167b6f72-4e14-4c9e-a2aa-ed3669d1e072-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-hot-spot-bondinho0080563/p?skuId=418365",
+        "identifier": "0080563014",
+        "name": "camiseta hot spot bondinho",
+        "parent_identifier": "0080563",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6ec5bba1-6e16-407e-8c67-f7a6e9796a76-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-praia-estampado-praia-da-reserva0066336/p?skuId=360939",
+        "identifier": "0066336313",
+        "name": "short praia estampado praia da reserva",
+        "parent_identifier": "0066336",
+        "thumbnail": "https://doris-storage.imgix.net/production/9230460b-a3c4-4973-89ec-e03e8eeb99a6-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-koi-fc0071738/p?skuId=443413",
+        "identifier": "0071738024",
+        "name": "camiseta estampada koi fc",
+        "parent_identifier": "0071738",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_cfccb9dd-d8f0-47c9-9c71-fc51e6752a2d-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/CAMISA-PF-ML-LINHO0073492/p?skuId=433062",
+        "identifier": "0073492037",
+        "name": "camisa pf ml linho",
+        "parent_identifier": "0073492",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_e0eb6dc0-f9fa-435d-abfb-f9bd381e0e49-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-jeans-relaxed-blue0071200/p?skuId=433941",
+        "identifier": "0071200330",
+        "name": "calca jeans relaxed blue",
+        "parent_identifier": "0071200",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_e40524a4-9133-4e0d-ae82-7cfaead6e5f3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-influencer-sailor0071831/p?skuId=443154",
+        "identifier": "0071831010",
+        "name": "camiseta estampada influencer sailor",
+        "parent_identifier": "0071831",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_738abf4e-48f1-4533-9eb9-c6e3cf2153b9-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo-pf-visco-piquet0049377/p?skuId=47783",
+        "identifier": "0049377312",
+        "name": "polo pf visco piquet",
+        "parent_identifier": "0049377",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_04659780-416f-4e41-848e-9ab9a90db3c9-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 299,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-elastico-estonado0066177/p?skuId=361564",
+        "identifier": "0066177040",
+        "name": "short elastico estonado",
+        "parent_identifier": "0066177",
+        "thumbnail": "https://doris-storage.imgix.net/production/8183ced8-71d8-4981-8f81-ed65a011a43a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://doris.one/products/bermuda-slim-em-jeans-com-puidos-azul",
+        "identifier": "663053234",
+        "name": "Bermuda Slim Em Jeans Com Puídos Azul",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_2a91d02f-6cce-4e67-8d8c-53ed5dcb50ff-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 95.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-fla-bandeira-srn0079401/p?skuId=412012",
+        "identifier": "0079401014",
+        "name": "Camiseta Fla Bandeira Srn",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_16283c9a-4c51-4505-98b2-e4b6d85394e6-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.hering.com.br/calca-basica-masculina-reta-em-moletom-peluciado-053uax7en/p",
+        "identifier": "053UAX7EN",
+        "name": "Calça Básica Masculina Reta Em Moletom Peluciado - Azul",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_271b93d4-ba15-4b57-8085-e015939584b1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 179.99,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-ouco-logo-existo0067109/p?skuId=410592",
+        "identifier": "0067109014",
+        "name": "camiseta estampada ouco logo existo",
+        "parent_identifier": "67109",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_b927a304-9a1d-465e-8fff-21ec7e75454e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-paris0071247/p?skuId=442755",
+        "identifier": "0071247010",
+        "name": "camiseta paris",
+        "parent_identifier": "71247",
+        "thumbnail": "https://lojausereserva.vtexassets.com/arquivos/ids/7651572-1200-auto?v=638194935125470000&width=1200&height=auto&aspect=true",
+        "status": "PROCESSED_ERROR",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-pin-stripes0066019/p?skuId=399942",
+        "identifier": "0066019818",
+        "name": "short pin stripes",
+        "parent_identifier": "0066019",
+        "thumbnail": "https://doris-storage.imgix.net/production/53a3dfe7-118e-43e5-82c6-698fc45b589a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camisa-ml-listra-horizontal0065596/p?skuId=410074",
+        "identifier": "0065596037",
+        "name": "camisa ml listra horizontal",
+        "parent_identifier": "65596",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_709c6966-27ca-406c-a137-ad35b01a69ea-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-casual-iron0071292/p",
+        "identifier": "0071292056",
+        "name": "calca casual iron",
+        "parent_identifier": "0071292",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_e6ed7854-b43c-4f37-9a0a-95c42b87f401-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-jeans-regular-bacana0067764/p?skuId=388372",
+        "identifier": "0067764040",
+        "name": "calca jeans regular bacana",
+        "parent_identifier": "0067764",
+        "thumbnail": "https://doris-storage.imgix.net/production/7c33bbf3-3135-4c05-ae26-4aa41c40d6d6-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo-friso-duplo0071594/p?skuId=443497",
+        "identifier": "0071594043",
+        "name": "Polo Friso Duplo",
+        "parent_identifier": "71594",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_997c4bca-f6ab-41b1-8d9b-cb15893bf420-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-pica-pau-basquiat0067095/p?skuId=387725",
+        "identifier": "0067095040",
+        "name": "CAMISETA ESTAMPADA PICA PAU BASQUIAT",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_7388977b-7278-4ec6-b458-4878d124be37-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-espanha0066135/p?skuId=400245",
+        "identifier": "0066135396",
+        "name": "calca espanha",
+        "parent_identifier": "0066135",
+        "thumbnail": "https://doris-storage.imgix.net/production/9a984bf3-c67a-498a-97c5-1898cf2a0c9c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-positividade0068332/p?skuId=413681",
+        "identifier": "0068332014",
+        "name": "Camiseta Estampada Positividade",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_fa2417e3-6a10-4891-b7b0-ff300bfa992b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camisa-em-flanela-xadrez-manga-longa-azul",
+        "identifier": "609597118",
+        "name": "Camisa Em Flanela Xadrez Manga Longa Azul",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_541e42b8-c61f-4b7c-8b01-8ce6935d1af8-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 159.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.zapalla.com.br/camiseta-caipirinhapreto-05300018-009/p",
+        "identifier": "3641",
+        "name": "Camiseta Caipirinha-Preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_1ddcd48d-8b34-4a9f-80e4-10001a870db1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 298,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-praia-estampado-picapoule0072957/p?skuId=411321",
+        "identifier": "0072957014",
+        "name": "short praia estampado picapoule",
+        "parent_identifier": "0072957",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/short_1d385a88-47af-4ff5-ae97-e5daf133f404-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-hoodie-brasa-pica-pau-bordado0071870/p?skuId=375890",
+        "identifier": "0071870040",
+        "name": "camiseta hoodie brasa pica pau bordado",
+        "parent_identifier": "0071870",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_7fc09b92-8afd-4f86-bd01-a7b20868a3bb-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/hoodie-moletom-familia0077124/p?skuId=419528",
+        "identifier": "0077124040",
+        "name": "hoodie moletom familia",
+        "parent_identifier": "0077124",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/sweatshirt_114d1475-2b3d-416f-864d-d410a555038e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "sweatshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-skinny-color0071289/p?skuId=442794",
+        "identifier": "0071289013",
+        "name": "calca skinny color",
+        "parent_identifier": "71289",
+        "thumbnail": "https://lojausereserva.vtexassets.com/arquivos/ids/7651723-1200-auto?v=638194939462470000&width=1200&height=auto&aspect=true",
+        "status": "PROCESSED_ERROR",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://doris.one/products/calca-balloon-em-jeans-com-efeito-estonado-azul-escuro-estonado",
+        "identifier": "625853695",
+        "name": "Calça Balloon em Jeans com Efeito Estonado Azul Escuro Estonado",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_37e4ed24-0725-462a-911b-391262f9e0a9-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 179.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-bordado-coral0079360/p?skuId=411819",
+        "identifier": "0079360014",
+        "name": "camiseta pica pau bordado coral",
+        "parent_identifier": "0079360",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6c57afef-0878-4668-a639-4495d3b723e1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-old-summer0071753/p?skuId=443354",
+        "identifier": "0071753024",
+        "name": "Camiseta Estampada Old Summer",
+        "parent_identifier": "71753",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_2d40593e-3276-4468-b371-ece40221c095-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/regata-sole0066415/p?skuId=366439",
+        "identifier": "0066415037",
+        "name": "regata sole",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_248c5f9d-56e3-4ebf-b8c7-57586fe50369-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 259,
+        "selling_price": 129,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-press-to-continue0071857/p?skuId=443123",
+        "identifier": "0071857040",
+        "name": "camiseta estampada press to continue",
+        "parent_identifier": "0071857",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_413de457-83f6-4f48-a94b-4a4595dae5fc-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-acontece-em-olinda0075126/p?skuId=412128",
+        "identifier": "0075126014",
+        "name": "camiseta estampada acontece em olinda",
+        "parent_identifier": "0075126",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_1840ec88-4b3c-498e-bd29-dbfd1005b74f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-mc-com-bolso-stone0065520/p?skuId=413790",
+        "identifier": "0065520010",
+        "name": "camiseta mc com bolso stone",
+        "parent_identifier": "0065520",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_05496332-1d80-4c80-8ccd-00b68954692a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/bermuda-em-linho-com-elastico-no-cos-e-bolsos-vermelho",
+        "identifier": "616819989",
+        "name": "Bermuda Em Linho Com Elástico No Cós E Bolsos Preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_b476bad2-2d5a-4890-ac07-ad12010578d3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 119.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/jaqueta-great-wave0071011/p?skuId=434016",
+        "identifier": "0071011240",
+        "name": "jaqueta great wave",
+        "parent_identifier": "0071011",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_cfb7a6c6-0079-4a93-937d-a509fbe9263c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-pica-pau-serie0073113/p?skuId=411261",
+        "identifier": "0073113014",
+        "name": "Camiseta Estampada Pica-Pau Serie",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6b64a05b-2b14-4f10-bcdf-6195a29c9a87-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-moletom-scotch0073109/p?skuId=433071",
+        "identifier": "0073109312",
+        "name": "bermuda moletom scotch",
+        "parent_identifier": "73109",
+        "thumbnail": "https://lojausereserva.vtexassets.com/arquivos/ids/7656086-1200-auto?v=638197839278200000&width=1200&height=auto&aspect=true",
+        "status": "PROCESSED_ERROR",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/jaqueta-puffer-downtown0070993/p?skuId=434061",
+        "identifier": "0070993513",
+        "name": "jaqueta puffer downtown",
+        "parent_identifier": "0070993",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_60b8ebae-f6ca-4d9a-abce-33fd925b468f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-paris0071247/p?skuId=442760",
+        "identifier": "0071247002",
+        "name": "camiseta paris",
+        "parent_identifier": "71247",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_0b77f05f-bee8-4622-9d1b-a328a80403bb-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-malha-listrada-praia-da-reserva0067087/p?skuId=361201",
+        "identifier": "0067087313",
+        "name": "camiseta malha listrada praia da reserva",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_19ea7ba3-ce82-4f13-a808-9b5959225b26-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 279,
+        "selling_price": 139,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-mc-listrado-slow-down0070922/p?skuId=442870",
+        "identifier": "0070922017",
+        "name": "camiseta mc listrado slow down",
+        "parent_identifier": "70922",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_e0236931-59ee-4c6d-a0a3-5c8fa6b3605d-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-continua-skinny-color-reserva0035487/p?skuId=36845",
+        "identifier": "0035487396",
+        "name": "calça contínua skinny color reserva",
+        "parent_identifier": "35487",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_5f6ab5af-875a-4d22-aecb-63c0c36ca5d7-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 469,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/jaqueta-curitiba-xadrez-madison0071481/p?skuId=433666",
+        "identifier": "0071481017",
+        "name": "jaqueta curitiba xadrez madison",
+        "parent_identifier": "0071481",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_395a6db1-5746-4c69-8c8f-ea1645a54e8e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-0-likes-cinema-mudo0067117/p?skuId=410899",
+        "identifier": "0067117014",
+        "name": "Camiseta Estampada 0 Likes Cinema Mudo",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_c12e3b74-6d8e-44f3-9e75-543762838460-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-solar-preto-est-solar-bento-fundo-azul-biru%C2%A0--5-13143-22174/p",
+        "identifier": "513143_22174",
+        "name": "camiseta solar preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/786425-799-1000/513143_22174_1-CAMISETA-SOLAR-PRETO.jpg?v=638212194055900000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 71.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-manga-longa-construcao-est-construcao-fundo-preto---5-13006-22182/p",
+        "identifier": "513006_22182",
+        "name": "camiseta manga longa construcao",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/761754-799-1000/513006_22182_1-CAMISETA-MANGA-LONGA-CONSTRUCAO.jpg?v=638119071090970000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 89.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-moletom-cavar-preto-5-13945-0013/p",
+        "identifier": "513945_0013",
+        "name": "bermuda moletom cavar",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/779758-799-1000/513945_0013_1-BERMUDA-MOLETOM-CAVAR.jpg?v=638187463491100000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 129.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-tom-moletom-est-jogo-cosmico-fundo-verde-cosmico---5-12584-02616/p",
+        "identifier": "512584_02616",
+        "name": "bermuda tom moletom",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/620667-799-1000/512584_02616_1-BERMUDA-TOM-MOLETOM.jpg?v=637999120700200000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 95.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-indaia0067170/p?skuId=362020",
+        "identifier": "0067170330",
+        "name": "bermuda indaia",
+        "parent_identifier": "0067170",
+        "thumbnail": "https://doris-storage.imgix.net/production/b16f778d-e15d-4786-ba59-78b01e015130-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/hoodie-moletom-familia0077124/p?skuId=419533",
+        "identifier": "0077124037",
+        "name": "hoodie moletom familia",
+        "parent_identifier": "0077124",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/sweatshirt_2d46ad1c-ddc8-4b8a-a121-3282de6e615b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "sweatshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-de-praia-atlantica0066517/p?skuId=409050",
+        "identifier": "0066517040",
+        "name": "bermuda de praia atlantica",
+        "parent_identifier": "66517",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_2a8c4e74-8f44-47f6-98e9-957d72f883ce-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/SHORT-PRAIA-LISO0071006/p?skuId=434036",
+        "identifier": "0071006051",
+        "name": "short praia liso",
+        "parent_identifier": "0071006",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_3eae094a-7361-4b69-9fed-0ad233379417-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-rio-oriental-aquarela0071739/p?skuId=443402",
+        "identifier": "0071739040",
+        "name": "camiseta estampada rio oriental aquarela",
+        "parent_identifier": "0071739",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_f1836f86-6298-4405-b06c-ae5528ac0c9b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.zapalla.com.br/tricot-raglan-bicolor-i23mesclamarinho-07310012-424/p",
+        "identifier": "3808",
+        "name": "Tricot Raglan Bicolor -I23-Mescla/Marinho",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_accaffe9-8e79-469f-bceb-713a193fbe22-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 589,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo-friso-duplo0071594/p?skuId=443487",
+        "identifier": "0071594054",
+        "name": "polo friso duplo",
+        "parent_identifier": "71594",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_6a4908ca-d78a-4df9-b9a0-6970c02966d1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-bordado-neon0079375/p",
+        "identifier": "0079375040",
+        "name": "camiseta pica pau bordado neon",
+        "parent_identifier": "0079375",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_aa89da69-ebe3-4fd6-960e-01abbf2cde6e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-big-heart0067103/p?skuId=410992",
+        "identifier": "0067103054",
+        "name": "Camiseta Estampada Big Heart",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_0b2f9a88-4a6c-4aee-8a73-afd4c717eb7a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-indaia0051654/p?skuId=6174",
+        "identifier": "0051654024",
+        "name": "bermuda indaia",
+        "parent_identifier": "51654",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_1fb58363-de09-4043-8b5e-0e7e5abc26e3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 669,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-moletom-game-over-azul-game-over-azul-bombinha-5-13043-40144/p",
+        "identifier": "513043_40144",
+        "name": "bermuda moletom game over azul",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/776088-799-1000/513043_40144_1-BERMUDA-MOLETOM-ZOIO.jpg?v=638182107479470000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 101.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-bordada-av23-off-white-5-12938-0024/p",
+        "identifier": "512938_0024",
+        "name": "bermuda bordada av23",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/782334-799-1000/512938_0024_1-BERMUDA-BORDADA-AV23.jpg?v=638191602553430000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 149.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-moletom-solar-solar-off-5-13324-22143/p",
+        "identifier": "513324_22143",
+        "name": "bermuda moletom solar",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/786513-799-1000/513324_22143_1-BERMUDA-MOLETOM-SOLAR.jpg?v=638212194991700000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 101.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-sunset-brush0073111/p?skuId=411272",
+        "identifier": "0073111010",
+        "name": "Camiseta Estampada Sunset Brush",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_47950bdc-ba28-49d0-af4e-c4d83a46c535-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.lojaspompeia.com/calca-jeans-masculina-azul-156436_142/p",
+        "identifier": "000156436_142",
+        "name": "Calça Jeans Masculina Azul",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_c66c078d-046b-4305-85da-da196376f7c3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 89.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camsieta-pica-pau-bordado-violeta0079361/p?skuId=413049",
+        "identifier": "0079361014",
+        "name": "Camsieta Pica Pau Bordado Violeta",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_a2209a5e-e989-4a4c-b55c-8cc07f222cd5-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/CAMISETA-PIMA-CORES0071431/p?skuId=433740",
+        "identifier": "0071431051",
+        "name": "CAMISETA PIMA CORES",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_49da7999-4c7a-43ea-939e-d4bf1f508d76-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-solar-preto-est-solar-bento-fundo-azul-biru%C2%A0--5-13143-22174/p",
+        "identifier": "5.13143_22174",
+        "name": "camiseta solar preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_a12ddc5b-b150-4475-86d2-e135a4b33983-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 71.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-crash-est-crash-fundo-off---5-13045-22167/p",
+        "identifier": "5.13045_22167",
+        "name": "calca moletom crash",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_4b107457-edf6-4358-ab96-5cd11d2c6917-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/moletom-pica-pau-bordado-noturno0068614/p?skuId=365018",
+        "identifier": "0068614014",
+        "name": "Moletom Pica Pau Bordado Noturno",
+        "parent_identifier": "68614",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_c760d43e-4c16-4ebe-ad09-12e6f8d44106-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-onca-pixel-est-onca-pixel-fundo-cinza-bonus---5-13046-22437/p",
+        "identifier": "513046_22437",
+        "name": "calca moletom onca pixel",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/785117-799-1000/513046_22437_1-CALCA-MOLETOM-ONCA-PIXEL.jpg?v=638204850493400000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-trengos-est-trengos-fundo-ocre-liana---5-13042-22175/p",
+        "identifier": "5.13042_22175",
+        "name": "calca moletom trengos",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_f2e6aefc-e540-410d-94bb-00f9cb082212-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-camufla-est-camufla-fundo-off---5-12998-22435/p",
+        "identifier": "512998_22435",
+        "name": "camiseta camufla",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/771740-799-1000/512998_22435_1-CAMISETA-CAMUFLA.jpg?v=638175132004600000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 71.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-color-blocking-colorido-5-13383-0000/p",
+        "identifier": "513383_0000",
+        "name": "casaco color blocking",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/775057-799-1000/513383_0000_1-CASACO-COLOR-BLOCKING.jpg?v=638181176129100000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 269.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-silk-criatura-colorido-5-13639-0000/p",
+        "identifier": "5.13639_0000",
+        "name": "camiseta silk criatura",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_d3424a79-a58c-4b30-9f46-3e844eecb752-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 155.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/calca-slim-em-moletom-alfaiatado-com-bolsos-preto",
+        "identifier": "624607871",
+        "name": "Calça Slim Em Moletom Alfaiatado Com Bolsos Preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_98e81b7b-9224-4f65-9aaf-a186aae0999a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 199.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-rsv-lifestyle-20067126/p?skuId=410807",
+        "identifier": "0067126014",
+        "name": "camiseta estampada rsv lifestyle 2",
+        "parent_identifier": "67126",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_c549e14a-fa44-4473-97ba-88e66ef450ac-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-onca-pixel-est-onca-pixel-fundo-cinza-bonus---5-13046-22437/p",
+        "identifier": "5.13046_22437",
+        "name": "calca moletom onca pixel",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_1804ac9c-7371-48f7-afee-77649fcc5f35-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-jeans-relaxed-blue0071200/p?skuId=433941",
+        "identifier": "0071200330",
+        "name": "CALCA JEANS RELAXED KYOTO BLUE",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_c2953e2f-9abe-4780-9ad6-00865e66b429-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.lojaspompeia.com/jaqueta-jeans-vilejack-masculina-azul-155286_142/p",
+        "identifier": "000155286_142",
+        "name": "Jaqueta Jeans Vilejack Masculina Azul",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_96234c00-5acd-44e3-9b52-8e5d3d3fe231-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 239.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://doris.one/products/calca-jogger-cargo-em-sarja-com-cos-elastico-e-barra-ajustada-off-white",
+        "identifier": "608402551",
+        "name": "Calça Jogger Cargo Em Sarja Com Cós Elástico E Barra Ajustada Off White",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_598ccbeb-14cb-4918-a9b0-e2c5c3a61cca-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 179.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-caras-e-bocas-est-caras-e-bocas-fundo-vermelho-explode-5-12999-22165/p",
+        "identifier": "512999_22165",
+        "name": "camiseta caras e bocas",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/785047-799-1000/512999_22165_1-CAMISETA-CARAS-E-BOCAS.jpg?v=638204850054230000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 77.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-silk-criatura-colorido-5-13639-0000/p",
+        "identifier": "513639_0000",
+        "name": "camiseta silk criatura",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/779320-799-1000/513639_0000_1-CAMISETA-SILK-CRIATURA.jpg?v=638187457310900000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 155.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/blusa-silk-coloridos-rosa-cor--de--rosa-5-13514-02802/p",
+        "identifier": "5.13514_02802",
+        "name": "blusa silk coloridos",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_e05f83d5-e93a-4f3e-b4f7-3503db5a2e8f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 77.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/short-nino-color-blocking-colorido-5-13378-0000/p",
+        "identifier": "513378_0000",
+        "name": "short nino color blocking",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/765874-799-1000/513378_0000_1-BERMUDA-COLORBLOCK.jpg?v=638127798047000000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-camarada-preto-est-camarada-fundo-preto---5-13044-22163/p",
+        "identifier": "513044_22163",
+        "name": "calca moletom camarada preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/776941-799-1000/513044_22163_1-CALCA-MOLETOM-CAMARADA-PRETO.jpg?v=638183025107470000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-crash-est-crash-fundo-off---5-13045-22167/p",
+        "identifier": "513045_22167",
+        "name": "calca moletom crash",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/761757-799-1000/513045_22167_1-CALCA-MOLETOM-CRASH.jpg?v=638119071113100000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camisa-popfruit-iumi-popfruit-iumi-mini-preto-5-13135-40647/p",
+        "identifier": "513135_40647",
+        "name": "camisa popfruit iumi",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/772137-799-1000/513135_40647_1-CAMISA-POPFRUIT-IUMI.jpg?v=638175135614130000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-moletom-camufla-est-camufla-fundo-off---5-13326-22435/p",
+        "identifier": "513326_22435",
+        "name": "casaco moletom camufla",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/772337-799-1000/513326_22435_1-CASACO-MOLETOM-CAMUFLA.jpg?v=638175137272770000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 178.8,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/blusa-malha-onca-coracao-rosa-est-onca-coracao-fundo-rosa-cor-de-rosa-5-13238-22194/p",
+        "identifier": "513238_22194",
+        "name": "blusa malha onca coracao rosa",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/776184-799-1000/513238_22194_1-VESTIDO-BEBE-MALHA-ONCA-CORACAO.jpg?v=638182108084670000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 77.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-guanabara-bay0080560/p?skuId=418405",
+        "identifier": "0080560040",
+        "name": "camiseta guanabara bay",
+        "parent_identifier": "0080560",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_2990bdd7-53af-4bf3-9663-a1d3083aa11b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/bermuda-cargo-em-algodao-com-detalhes-de-pesponto-marrom",
+        "identifier": "637213951",
+        "name": "Bermuda Cargo Em Algodão Com Detalhes De Pesponto Marrom",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_11224c26-3ead-486d-bb9d-fdf0667ea89d-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 159.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-bordada-av23-off-white-5-12938-0024/p",
+        "identifier": "5.12938_0024",
+        "name": "bermuda bordada av23",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_3a5a2dd3-24c0-4437-9943-dadeb2f43c7a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 149.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-dias-melhores0066138/p?skuId=388107",
+        "identifier": "0066138037",
+        "name": "camiseta estampada dias melhores",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_b63f76fa-8807-4785-a13a-51d77b95a54a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 219,
+        "selling_price": 109,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-moletom-camarada-preto-est-camarada-fundo-preto---5-13325-22163/p",
+        "identifier": "5.13325_22163",
+        "name": "casaco moletom camarada preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_2189c634-559e-4bc7-af8c-38a893078088-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 149.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-gola-v-vento0071912/p?skuId=443099",
+        "identifier": "0071912056",
+        "name": "camiseta gola v vento",
+        "parent_identifier": "0071912",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_5268f948-5549-4fd1-9318-1496d87b6cb1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.lojaspompeia.com/camiseta-manga-longa-full-surf-masculina-bordobranco-155302_1042/p",
+        "identifier": "000155302_1042",
+        "name": "Camiseta Manga Longa Full Surf Masculina Bordo/branco",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_c402a727-4318-4b98-a549-ee78838d58f8-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 59.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-cerveja0053394/p?skuId=63301",
+        "identifier": "0053394014",
+        "name": "camiseta pica-pau cerveja",
+        "parent_identifier": "0053394",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_7c45170d-02dd-4bd5-8522-f77561ed60e4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 169,
+        "selling_price": 149,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.hering.com.br/blusa-infantil-menina-manga-curta-com-estampa-tam-1-a-16-5cha7fen/p",
+        "identifier": "31290360F",
+        "name": "Camiseta Kids Estampa",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_2ef67ad2-faee-4727-901b-a84b6fd1ddbd-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camisa-bordado-ferias-off-white-5-12937-0024/p",
+        "identifier": "512937_0024",
+        "name": "camisa bordado ferias",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/783439-799-1000/512937_0024_1-CAMISA-BORDADO-FERIAS.jpg?v=638193331836100000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 149.5,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-moletom-bonus-est-bonus-fundo-preto-5-13359-22434/p",
+        "identifier": "513359_22434",
+        "name": "casaco moletom bonus",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/777110-799-1000/513359_22434_1-CASACO-MOLETOM-BONUS.jpg?v=638183026177730000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 149.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/blusa-silk-alegria-colorido-5-13544-0000/p",
+        "identifier": "513544_0000",
+        "name": "blusa silk alegria",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/786736-799-1000/513544_0000_1-BLUSA-SILK-ALEGRIA.jpg?v=638215740196030000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 89.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/blusa-malha-florpix-amarela-est-florpix-fundo-amarelo-amarelinha---5-13232-22186/p",
+        "identifier": "513232_22186",
+        "name": "blusa malha florpix amarela",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/760351-799-1000/513232_22186_1-BLUSA-MALHA-FLORPIX-AMARELA.jpg?v=638115553188600000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 83.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-juntos0066270/p?skuId=387769",
+        "identifier": "0066270040",
+        "name": "camiseta estampada juntos",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_536c5da0-adfe-4a95-96a1-d0a20d0e3a9a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 249,
+        "selling_price": 125,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.lojaspompeia.com/sueter-tricot-masculino-azul-154973_142/p",
+        "identifier": "000154973_142",
+        "name": "Suéter Tricot Masculino Azul",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_2b23333a-2775-4b32-ba61-1b237013a087-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 179.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-relax-oculos0075520/p?skuId=411498",
+        "identifier": "0075520014",
+        "name": "Camiseta Relax Oculos",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_3dc6d456-8d44-4e71-ae69-65ab45230ed6-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo--pima-piquet0062141/p?skuId=354302",
+        "identifier": "0062141330",
+        "name": "Polo Pima Piquet",
+        "parent_identifier": "62141",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_16020139-c19a-4c21-a910-c77774fe475c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/short-sarja-color-est-turba-pb-fundo-off-5-12613-02582/p",
+        "identifier": "5.12613_02582",
+        "name": "short sarja color",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/short_d75b113e-1216-4a3e-bec2-c1ad3eaf6913-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-tom-moletom-est-jogo-cosmico-fundo-verde-cosmico---5-12584-02616/p",
+        "identifier": "5.12584_02616",
+        "name": "bermuda tom moletom",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_71493f71-fd2d-4797-95ef-a0a89b0e1015-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 95.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/blusa-malha-onca-coracao-rosa-est-onca-coracao-fundo-rosa-cor-de-rosa-5-13238-22194/p",
+        "identifier": "5.13238_22194",
+        "name": "blusa malha onca coracao rosa",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6ea44c4f-b541-414a-aefe-446bb080e0a1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 77.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-moletom-camufla-est-camufla-fundo-off---5-13326-22435/p",
+        "identifier": "5.13326_22435",
+        "name": "casaco moletom camufla",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_9d8725f1-ce67-4e90-aab9-d06b83fe1dc3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 178.8,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/saia-midi-noite-feliz-est-noite-feliz-fundo-preto-5-13334-22133/p",
+        "identifier": "5.13334_22133",
+        "name": "saia midi noite feliz",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/short_3e8d3221-ba33-4fbd-a769-3ced5289503f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camisa-mg-longa-popfruit-est-popfruit-fundo-off---5-13136-22152/p",
+        "identifier": "5.13136_22152",
+        "name": "camisa mg longa popfruit",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_45706aef-b12e-4fe1-b9e1-eb00a52e306d-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 149.5,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/blusa-malha-florpix-amarela-est-florpix-fundo-amarelo-amarelinha---5-13232-22186/p",
+        "identifier": "5.13232_22186",
+        "name": "blusa malha florpix amarela",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_71a98885-e17b-4c70-a00b-0ff9812f9727-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 83.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-camufla-camufla-of-5-13023-22435/p",
+        "identifier": "5.13023_22435",
+        "name": "calça moletom camufla",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_3a804035-1d33-44af-b8f3-a89355f2e090-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camisa-mg-longa-popfruit-est-popfruit-fundo-off---5-13136-22152/p",
+        "identifier": "513136_22152",
+        "name": "camisa mg longa popfruit",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/774892-799-1000/513136_22152_1-CAMISA-POPFRUIT.jpg?v=638181175407370000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 149.5,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-pica-pau-basquiat0067095/p?skuId=387740",
+        "identifier": "0067095054",
+        "name": "CAMISETA ESTAMPADA PICA PAU BASQUIAT",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_47e11167-2931-46c2-8d46-fb6b6c4a940d-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-bordado-bandeira0079359/p?skuId=411829",
+        "identifier": "0079359014",
+        "name": "Camiseta Pica Pau Bordado Bandeira",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_5b40163e-c09e-4565-8734-8152f5d081a8-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-axe0075121/p?skuId=412178",
+        "identifier": "0075121014",
+        "name": "Camiseta Estampada Axe",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_94644da2-e6bf-4ca4-a10f-2c66276d8bc4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.lojaspompeia.com/camisa-manga-longa-masculina-azul-155768_142/p",
+        "identifier": "000155768_142",
+        "name": "Camisa Manga Longa Masculina Azul",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_7c14a9a2-f263-4f93-bb59-7e68c64304c1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 139.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-moletom-camarada-preto-est-camarada-fundo-preto---5-13325-22163/p",
+        "identifier": "513325_22163",
+        "name": "casaco moletom camarada preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/782703-799-1000/513325_22163_1-CASACO-MOLETOM-CAMARADA-PRETO.jpg?v=638191604393400000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 149.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/blusa-silk-coloridos-rosa-cor--de--rosa-5-13514-02802/p",
+        "identifier": "513514_02802",
+        "name": "blusa silk coloridos",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/785701-799-1000/513514_02802_1-BLUSA-SILK-COLORIDOS.jpg?v=638204854265170000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 77.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/saia-de-tule-amorango-rosa-est-amorango-fundo-rosa-cor-de-rosa---5-13052-22177/p",
+        "identifier": "5.13052_22177",
+        "name": "saia de tule amorango rosa",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/short_2a91b501-c5d7-463f-a85d-fcfc7552a158-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-camarada-preto-est-camarada-fundo-preto---5-13044-22163/p",
+        "identifier": "5.13044_22163",
+        "name": "calca moletom camarada preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_f43b7f50-6ea7-4461-8ab5-3e9fed63ff98-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-camufla-camufla-of-5-13023-22435/p",
+        "identifier": "513023_22435",
+        "name": "calça moletom camufla",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/780003-799-1000/513023_22435_1-CALCA-MOLETOM-CAMUFLA.jpg?v=638188038344900000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/saia-midi-noite-feliz-est-noite-feliz-fundo-preto-5-13334-22133/p",
+        "identifier": "513334_22133",
+        "name": "saia midi noite feliz",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/779565-799-1000/513334_22133_1-SAIA-NOITE-FELIZ.jpg?v=638187462356370000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/short-sarja-color-est-turba-pb-fundo-off-5-12613-02582/p",
+        "identifier": "512613_02582",
+        "name": "short sarja color",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/773365-799-1000/512613_02582_1-SHORT-SARJA-COLOR.jpg?v=638175924304270000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-color-blocking-colorido-5-13383-0000/p",
+        "identifier": "5.13383_0000",
+        "name": "casaco color blocking",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_0f816102-dfac-4850-9b14-89cc01b99b74-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 269.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-moletom-silk-poa-amorango-rosa-decorado-poa-amorango-rosa-cor-de-rosa-5-13583-40136/p",
+        "identifier": "5.13583_40136",
+        "name": "casaco moletom silk poa amorango rosa",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_d7cf6cbe-d48c-4a81-9d43-46671c94c666-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://doris.one/products/calca-masculina-fity-d00-ricardo-almeida-preto",
+        "identifier": "15230224_63280_LISPTOES",
+        "name": "CALÇA MASCULINA FITY D00  RICARDO ALMEIDA PRETO",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/1a8b4764-7ea4-41fa-a2e2-c740795d8d61-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 1454,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/short-sarja-color-pespontado-est-figura-fundo-colorido-5-12614-02573/p",
+        "identifier": "5.12614_02573",
+        "name": "short sarja color pespontado",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/short_e229e8ba-853b-4c63-a477-0f11f3c93cf9-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-marley-e-eu0067143/p?skuId=387714",
+        "identifier": "0067143010",
+        "name": "camiseta estampada marley e eu",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_51f50752-a8a6-4a2d-b29d-ceac52544ed4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 259,
+        "selling_price": 129,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-bordado-bandeira0079359/p?skuId=411829",
+        "identifier": "0079359014",
+        "name": "camiseta pica pau bordado bandeira",
+        "parent_identifier": "0079359",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_0ed20ac0-ed70-4280-828e-83e4dbb6ce75-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-tardezinha-influencer0075521/p?skuId=411518",
+        "identifier": "0075521014",
+        "name": "Camiseta Tardezinha Influencer",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_0b893add-c21d-4efb-a94e-68db2573d4f6-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://usereserva.com/BERMUDA-MOLETOM-BASICA-NEW0071615/p",
+        "identifier": "0071615812",
+        "name": "bermuda moletom basica new",
+        "parent_identifier": "0071615",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_857e8dff-6545-4d20-b1ae-b8eae4d3eaae-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo--pima-piquet0062141/p?skuId=354309",
+        "identifier": "0062141070",
+        "name": "polo  pima piquet",
+        "parent_identifier": "62141",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_df696f56-f920-498a-a83b-5f4d017f252f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/saia-de-tule-amorango-rosa-est-amorango-fundo-rosa-cor-de-rosa---5-13052-22177/p",
+        "identifier": "513052_22177",
+        "name": "saia de tule amorango rosa",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/761831-799-1000/513052_22177_1-SAIA-DE-TULE-AMORANGO.jpg?v=638119071685200000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-moletom-silk-poa-amorango-rosa-decorado-poa-amorango-rosa-cor-de-rosa-5-13583-40136/p",
+        "identifier": "513583_40136",
+        "name": "casaco moletom silk poa amorango rosa",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/785914-799-1000/513583_40136_1-CASACO-MOLETOM-SILK-POA-AMORANGO-ROSA.jpg?v=638204855464870000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.lojaspompeia.com/camiseta-manga-longa-masculina-bege-156407_182/p",
+        "identifier": "000156407_182",
+        "name": "Camiseta Manga Longa Masculina Bege",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_77ca7d53-485e-4d01-a34f-30df4278f1a4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 59.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.maiemai.com.br/colecao/calca/calca-bolsos-algodao?variant_id=423",
+        "identifier": "355011902",
+        "name": "CALÇA BOLSOS ALGODÃO",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_4cf6dbeb-f9a4-4f5a-b234-1577741c0719-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-relax-chinelo0075519/p?skuId=411508",
+        "identifier": "0075519014",
+        "name": "Camiseta Relax Chinelo",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_3c10e391-e1f0-4a0d-aa07-9b57a499039a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/calca-reta-em-sarja-com-bolsos-marrom",
+        "identifier": "626426919",
+        "name": "Calça Reta Em Sarja Com Bolsos Marrom",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_23f4dc14-cac2-4899-bff9-8b23762b47ff-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 179.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-arpoador-golden0076592/p?skuId=432913",
+        "identifier": "0076592312",
+        "name": "short arpoador golden",
+        "parent_identifier": "0076592",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_d85b126e-7ae0-4181-b97e-242ee22cef69-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-big-heart0067103/p?skuId=410995",
+        "identifier": "0067103040",
+        "name": "camiseta estampada big heart",
+        "parent_identifier": "67103",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_396466e5-aec6-4d37-80ba-3d032a1675bc-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/calca-moletom-trengos-est-trengos-fundo-ocre-liana---5-13042-22175/p",
+        "identifier": "513042_22175",
+        "name": "calca moletom trengos",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/785113-799-1000/513042_22175_1-CALCA-MOLETOM-TRENGOS.jpg?v=638204850466500000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 137.4,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/short-sarja-color-pespontado-est-figura-fundo-colorido-5-12614-02573/p",
+        "identifier": "512614_02573",
+        "name": "short sarja color pespontado",
+        "parent_identifier": "1",
+        "thumbnail": "https://lojafabula.vteximg.com.br/arquivos/ids/628498-799-1000/512614_02573_1-SHORT-SARJA-COLOR-PESPONTADO.jpg?v=638070598255000000",
+        "status": "PROCESSED_ERROR",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/moletom-pica-pau-bordado-suspiro0068730/p?skuId=364997",
+        "identifier": "0068730014",
+        "name": "moletom pica pau bordado suspiro",
+        "parent_identifier": "0068730",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_18fe87b7-3f9b-4404-8a02-67b75a5aeafb-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.hering.com.br/calca-infantil-menina-toddler-estampada-em-ribana-554t1aen/p",
+        "identifier": "31290358D",
+        "name": "Calça kids Toddler",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_1288706d-342b-4cc7-b4ff-e0529b8b1659-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.lojaspompeia.com/camisa-manga-longa-xadrez-amil-masculina-verdepreto-157887_332/p",
+        "identifier": "000157887_332",
+        "name": "Camisa Manga Longa Xadrez Amil Masculina Verde/preto",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_eeed6c60-6555-4ac2-b5a5-95efd03159f3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 89.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-pica-pau-botanico0067142/p?skuId=387955",
+        "identifier": "0067142037",
+        "name": "camiseta estampada pica pau botanico",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_20d07d68-055d-49ec-b706-fc1a251d5c14-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 309,
+        "selling_price": 154,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-----bloquinho0080046/p?skuId=414816",
+        "identifier": "0080046014",
+        "name": "camiseta &&& bloquinho",
+        "parent_identifier": "0080046",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_89d5a0b6-0b30-41ed-81da-4c5c34772c5e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/hoodie-moletom-estampa-green-forest-p-b0066411/p",
+        "identifier": "0066411040",
+        "name": "hoodie moletom estampa green forest p&b",
+        "parent_identifier": "66411",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_358b6872-5272-4a66-9b1c-11e3481bfa66-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "jacket"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-estrela-super-campea0075129/p?skuId=412103",
+        "identifier": "0075129014",
+        "name": "Camiseta Estampada Estrela Super Campea",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_76923070-4b42-4a3c-9e92-393fc1925556-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-listras-colors-fc0060179/p?skuId=397215",
+        "identifier": "0060179024",
+        "name": "camiseta estampada listras colors fc",
+        "parent_identifier": "60179",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_411dbbdd-9c87-496a-92e2-4aca74168c11-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/jaqueta-curitiba-xadrez-kappa0071483/p?skuId=433656",
+        "identifier": "0071483818",
+        "name": "jaqueta curitiba xadrez kappa",
+        "parent_identifier": "0071483",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_e6e8c6fb-91f4-4446-ba2c-f1ff70af6145-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-praia-estampado-arpex0066340/p?skuId=411442",
+        "identifier": "0066340313",
+        "name": "short praia estampado arpex",
+        "parent_identifier": "66340",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/short_3ca24f56-24e7-46e9-be9f-4abefb4b2757-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-linho-sol0066601/p",
+        "identifier": "0066601312",
+        "name": "camiseta linho sol",
+        "parent_identifier": "66601",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/988a00bf-01e1-4525-92ba-3a559457d0af-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo-friso-duplo0071594/p?skuId=443497",
+        "identifier": "0071594043",
+        "name": "polo friso duplo",
+        "parent_identifier": "71594",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_76ce6dde-9ffb-4a60-befb-c6b83af4bb3c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-bolso-cardume0071774/p?skuId=443294",
+        "identifier": "0071774054",
+        "name": "camiseta estampada bolso cardume",
+        "parent_identifier": "71774",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_09ce2c39-b45d-4bbd-a627-3e341eb2f97c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/polo-masculina-lisa-ricardo-almeida",
+        "identifier": "11223501_64895_PTOLISPT",
+        "name": "POLO MASCULINA LISA RICARDO ALMEIDA",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/a890fd93-03e1-410e-982d-82a711cb17ed-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 799,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-praia-sol0071812/p?skuId=443176",
+        "identifier": "0071812014",
+        "name": "camiseta estampada praia sol",
+        "parent_identifier": "0071812",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_d0e0ebe6-acfa-4ff9-91f2-6f433e56c8ca-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/tricot-basico-gola-v0072725/p?skuId=433154",
+        "identifier": "0072725312",
+        "name": "TRICOT BASICO GOLA V",
+        "parent_identifier": "72725",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_a7a67194-619e-495a-8548-36968d16513d-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://doris.one/products/blusa-em-trico-com-manga-curta-e-listras-diferenciadas-rosa",
+        "identifier": "781847908",
+        "name": "Blusa Em Tricô Com Manga Curta E Listras Diferenciadas Rosa",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/blouse_c9f1cddb-8c80-4402-b28c-06aca1ca1004-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 89.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "blouse"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-joa0066566/p?skuId=361256",
+        "identifier": "1200512012",
+        "name": "camiseta joa",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_a176a520-16dd-4411-a51f-9ad445dbdccb-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 359,
+        "selling_price": 179,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-bordado-bandeira0079359/p?skuId=411824",
+        "identifier": "0079359040",
+        "name": "Camiseta Pica Pau Bordado Bandeira",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_d07efb18-94b9-46f3-8109-4f4dae3bb7f8-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/bermuda-em-linho-com-elastico-no-cos-e-bolsos-preto",
+        "identifier": "629479119",
+        "name": "Bermuda Em Linho Com Elástico No Cós E Bolsos Vermelho",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_867870d9-2db1-4a6a-a734-17777a2ffda3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 119.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-praia-liso0067264/p?property__DESC_COR_ORIGINAL=AMARELO%20CLARO&skuId=361335",
+        "identifier": "0067264002",
+        "name": "short praia liso",
+        "parent_identifier": "0067264",
+        "thumbnail": "https://doris-storage.imgix.net/production/4d4fd301-c624-4549-8f2c-bd4d38e30630-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-flame-stoned0066350/p?skuId=360889",
+        "identifier": "K0WF3VSI",
+        "name": "camiseta flame stoned",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_8250da2b-b2a0-401d-a4a1-a10d42b94afa-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 299,
+        "selling_price": 149.16,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-eletro-sample0071788/p?skuId=443263",
+        "identifier": "0071788040",
+        "name": "camiseta estampada eletro sample",
+        "parent_identifier": "0071788",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_b42876e9-83a5-47a3-9ab3-2d24dff9a5d1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-rsv-globe0067121/p?skuId=410864",
+        "identifier": "0067121312",
+        "name": "camiseta estampada rsv globe",
+        "parent_identifier": "67121",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6408384d-dbd5-4317-be57-23dce9014023-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-fervo0080043/p?skuId=414851",
+        "identifier": "0080043040",
+        "name": "camiseta fervo",
+        "parent_identifier": "0080043",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_eb42f572-6ff9-4e15-a8c4-76a4b088b8bc-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-manga-longa-basica-uv0068732/p?skuId=411436",
+        "identifier": "0068732040",
+        "name": "camiseta manga longa básica uv",
+        "parent_identifier": "68732",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_832de2f1-09fb-4b73-a4fc-136f8e248107-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.zapalla.com.br/camiseta-havapreto-05280082-009/p",
+        "identifier": "2896",
+        "name": "Camiseta Hava-Preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_a908ef99-a95a-44f4-ab27-ae37977b3f5c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 259,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-folclore0075125/p?skuId=412143",
+        "identifier": "0075125014",
+        "name": "Camiseta Estampada Folclore",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_49fc172c-a36e-4913-a651-fe12ffd375de-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/CAMISETA-ESTAMPADA-PRAIA-ONDA0071818/p?skuId=433432",
+        "identifier": "0071818037",
+        "name": "camiseta estampada praia onda",
+        "parent_identifier": "71818",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_346a0283-d86e-4a89-9c75-47b2efeb984e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-no-signal-20071768/p?skuId=443311",
+        "identifier": "0071768013",
+        "name": "Camiseta Estampada No Signal 2",
+        "parent_identifier": "71768",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_c2212f85-4c20-492b-9163-9a04a481d693-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/sueter-abisso-azul-brunello-cucinelli",
+        "identifier": "ABISSO",
+        "name": "SUÉTER ABISSO AZUL - BRUNELLO CUCINELLI",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/727185eb-87a9-4654-b969-18b2540a2c73-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 14200,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://doris.one/products/calca-reta-em-liocel-com-cos-elastico-e-recortes-vermelho",
+        "identifier": "672070466",
+        "name": "Calça Reta Em Liocel Com Cós Elástico E Recortes Vermelho",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_cd96f7c0-97fd-46fb-9db5-dab199df2864-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 269.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-bordado-neon0079375/p?skuId=412228",
+        "identifier": "0079375014",
+        "name": "Camiseta Pica Pau Bordado Neon",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6aad4e31-ad4b-46a5-b627-cc07706311a7-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-manga-longa-construcao-est-construcao-fundo-preto---5-13006-22182/p",
+        "identifier": "5.13006_22182",
+        "name": "camiseta manga longa construcao",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_7e3b449d-6720-49cd-a8c8-ddb491bcf7a6-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 89.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/casaco-moletom-estampado-crf-flamengo0064820/p",
+        "identifier": "0064820014",
+        "name": "casaco moletom estampado crf flamengo",
+        "parent_identifier": "64820",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_aeb45ff2-7a18-453c-a551-6b21eeea3849-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-d-d-pica-pau-vingador0079770/p?skuId=417883",
+        "identifier": "0079770564",
+        "name": "camiseta d&d pica pau vingador",
+        "parent_identifier": "0079770",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_30dca71a-cf52-4270-8a6a-8bd3d640b8e9-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "www.doris.mobi",
+        "identifier": "farfetch_93",
+        "name": "any_name",
+        "parent_identifier": null,
+        "thumbnail": "https://doris-storage.imgix.net/production/89112a50-6560-49b6-9e5d-21d30fd9501b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/JAQUETA-CURITIBA-KOBE0071479/p?skuId=433670",
+        "identifier": "0071479312",
+        "name": "jaqueta curitiba kobe",
+        "parent_identifier": "0071479",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_ae36c55b-07d5-41da-804a-92d2706293dc-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-caras-e-bocas-est-caras-e-bocas-fundo-vermelho-explode-5-12999-22165/p",
+        "identifier": "5.12999_22165",
+        "name": "camiseta caras e bocas",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_635647d3-d2f8-4698-be04-820483f57d85-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 77.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-mascote-hawaii0066404/p?skuId=409239",
+        "identifier": "0066404054",
+        "name": "Camiseta Estampada Mascote Hawaii",
+        "parent_identifier": "66404",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_3820115e-7cf8-40d3-9fb1-2bbd2771db0b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/short-nino-color-blocking-colorido-5-13378-0000/p",
+        "identifier": "5.13378_0000",
+        "name": "short nino color blocking",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_75b25ee1-f11b-40d3-90d5-06ad10062bf4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-moletom-basica-new0066373/p?skuId=409368",
+        "identifier": "0066373037",
+        "name": "Bermuda Moletom Basica New",
+        "parent_identifier": "66373",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_7b875918-86b3-4e0a-b65b-864918b55ff9-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camiseta-basica-unissex-mangas-curtas-world-hering-amarelo",
+        "identifier": "0201YLK07S",
+        "name": "Camiseta Básica Unissex Mangas Curtas World  HERING Amarelo",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/839ae363-f77c-4880-9833-00e23f45d466-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 52.9,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camisa-ml-nova-paraty0066853/p?skuId=400073",
+        "identifier": "0066853515",
+        "name": "camisa ml nova paraty",
+        "parent_identifier": "0066853",
+        "thumbnail": "https://doris-storage.imgix.net/production/7ff98877-97ab-4122-91ba-851577add716-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-moletom-game-over-azul-game-over-azul-bombinha-5-13043-40144/p",
+        "identifier": "5.13043_40144",
+        "name": "bermuda moletom game over azul",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_07b10811-9d58-46c3-93a3-4c41a97d78e7-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 101.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-modo-soneca0066381/p?skuId=409298",
+        "identifier": "0066381040",
+        "name": "Camiseta Estampada Modo Soneca",
+        "parent_identifier": "66381",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6c402306-98d8-44a3-9fd0-22bb52467d1d-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camiseta-regular-em-meia-malha-com-listras-e-etiqueta-frontal-branco",
+        "identifier": "657049933",
+        "name": "Camiseta Regular Em Meia Malha Com Listras E Etiqueta Frontal Branco",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_a2d85acb-0fe8-470a-bc78-cb647a1e32d3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 49.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-nautico0066000/p?skuId=361176",
+        "identifier": "0066000312",
+        "name": "short nautico",
+        "parent_identifier": "0066000",
+        "thumbnail": "https://doris-storage.imgix.net/production/fabcd448-9123-485f-b301-69202791db25-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camiseta-camufla-est-camufla-fundo-off---5-12998-22435/p",
+        "identifier": "5.12998_22435",
+        "name": "camiseta camufla",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6c487efa-9236-47f0-9ce5-09be5a89f5fc-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 71.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo-friso-rajado0058208/p?skuId=148823",
+        "identifier": "0058208312",
+        "name": "polo friso rajado",
+        "parent_identifier": "0058208",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_f388576a-6171-4305-a9f9-88af9bdf7153-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 299,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-surf-can0066348/p?skuId=409449",
+        "identifier": "0066348810",
+        "name": "Camiseta Estampada Surf Can",
+        "parent_identifier": "66348",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_878d8a8a-7a87-43ac-a71c-54610df0df6c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-flame-stoned0066350/p?skuId=360889",
+        "identifier": "SKULLEDU",
+        "name": "camiseta flame stoned",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6080cc93-a297-4657-b284-6d0577e84577-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 299,
+        "selling_price": 149.16,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/jaqueta-windbreak-ripstop0067007/p?skuId=413716",
+        "identifier": "0067007040",
+        "name": "Jaqueta Windbreak Ripstop",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_86f76fd7-1aee-43bb-b18d-457ed14c1884-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "jacket"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-bordado-neon0079375/p?skuId=412228",
+        "identifier": "0079375014",
+        "name": "camiseta pica pau bordado neon",
+        "parent_identifier": "0079375",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_6681ccba-05e4-4a4c-b203-b6b1cf5af773-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/BERMUDA-ATOALHADA-LISA0070911/p?skuId=434152",
+        "identifier": "0070911312",
+        "name": "bermuda atoalhada lisa",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_e741d9f7-6a60-44aa-a7fa-15867e431a79-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 499,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://doris.one/products/jaqueta-em-poliamida-com-fechamento-ziper-e-punho-em-ribana-verde",
+        "identifier": "685265692",
+        "name": "Jaqueta Em Poliamida Com Fechamento Zíper E Punho Em Ribana Verde",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_fde21d29-0d98-4610-9a0c-0d0107c67805-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 299.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camisa-masculina-0001bba-ricardo-almeida-preto",
+        "identifier": "15201023_54994_BLACKLIS",
+        "name": "CAMISA MASCULINA 0001BBA  RICARDO ALMEIDA PRETO",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/5d59b5f5-6182-4e79-b61b-fae1eb4706ea-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 1322,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-reserva-typo-20066315/p?skuId=409518",
+        "identifier": "0066315049",
+        "name": "Camiseta Estampada Reserva Typo 2",
+        "parent_identifier": "66315",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_e6100a81-5ca5-4fa2-bfe5-99ad7bdf18f4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-malha-linho-listrada0065742/p?skuId=410503",
+        "identifier": "0065742006",
+        "name": "camiseta malha linho listrada",
+        "parent_identifier": "65742",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_77d9b6af-aedb-40d4-9a2b-2b6a435c1989-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.hering.com.br/calca-masculina-jogger-em-sarja-h1v1hjzsn/p",
+        "identifier": "H1V1HJZSN",
+        "name": "Calça Masculina Jogger Em Sarja - Bege",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_0ddfc75c-515f-4128-b082-02d5ca1ef2e1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 99.99,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-com-bolso-soho-listrado0071242/p",
+        "identifier": "0071242396",
+        "name": "camiseta com bolso soho listrado",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_c2ec5c32-4a12-4222-b71d-cc5ac6f7268b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-moletom-cavar-preto-5-13945-0013/p",
+        "identifier": "5.13945_0013",
+        "name": "bermuda moletom cavar",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_f9444bb0-0eae-44a1-bd23-5712c2493007-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 129.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/POLO-PIQUET-PIMA0071448/p?skuId=433705",
+        "identifier": "0071448758",
+        "name": "polo piquet pima",
+        "parent_identifier": "0071448",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_0d0b9f1a-c573-4391-ade0-d8c75b89ec86-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-madras-com-bolso0071473/p?skuId=433674",
+        "identifier": "0071473051",
+        "name": "camiseta estampada madras com bolso",
+        "parent_identifier": "71473",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_a78f9aa5-616b-4e15-a261-f3370b1e8ba4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camiseta-regular-em-algodao-com-estampa-muy-bueno-estonada-azul-estonado",
+        "identifier": "685258644",
+        "name": "Camiseta Regular Em Algodão Com Estampa Muy Bueno Estonada Azul Estonado",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_7dac1524-f655-4ffd-af18-9dadde4cfa7e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 79.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/polo-masculina-ziper-piquet-nec-ricardo-almeida-marrom",
+        "identifier": "11223502_52156_LISGOIMD",
+        "name": "POLO MASCULINA ZIPER PIQUET NEC  RICARDO ALMEIDA MARROM",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/edbd64eb-da16-4731-879b-ad73bffa9eb9-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 1159,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camisa-ml-listra0072972/p?skuId=433092",
+        "identifier": "0072972004",
+        "name": "camisa ml listra",
+        "parent_identifier": "0072972",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_db0a8913-4945-4b84-a26e-e35091d2b431-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/blusao-sherpa-com-capuz-com-ziper-e-bolso-canguru-marrom",
+        "identifier": "709849191",
+        "name": "Blusão Sherpa Com Capuz Com Zíper E Bolso Canguru Marrom",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_c4253a5c-1137-4609-857d-442855afcf6c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 179.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-pica-pau-bordado-glow0079374/p?skuId=412233",
+        "identifier": "0079374040",
+        "name": "Camiseta Pica Pau Bordado Glow",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_74078c96-8278-48ed-94dd-770e58f076df-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-rsv-rock0080954/p?skuId=431305",
+        "identifier": "0080954040",
+        "name": "camiseta rsv rock",
+        "parent_identifier": "0080954",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_31a0a154-82de-40d0-ad31-04b78d8bd94b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/polo-regular-em-malha-piquet-com-botoes-na-gola-amarelo",
+        "identifier": "814844464",
+        "name": "Polo Regular Em Malha Piquet Com Botões Na Gola Amarelo",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_8045b4fe-fdb1-48c4-a120-1f84824d8363-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 99.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-lugar-de-escuta0067106/p?skuId=410974",
+        "identifier": "0067106010",
+        "name": "camiseta estampada lugar de escuta",
+        "parent_identifier": "0067106",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_7b5d50d7-d553-4b81-a0e1-5f11ea7e7398-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-hoppoe-bird0066356/p?skuId=409418",
+        "identifier": "0066356037",
+        "name": "Camiseta Estampada Hoppoe Bird",
+        "parent_identifier": "66356",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_63772ee7-2069-41c3-af99-3cd15e12d007-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-familia-reserva0079638/p?skuId=413848",
+        "identifier": "0079638014",
+        "name": "Camiseta Familia Reserva",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_eda94c64-27a4-4c42-b461-6fa4773331b1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-familia-cool0079640/p?skuId=413853",
+        "identifier": "0079640014",
+        "name": "Camiseta Familia Cool",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_b184ba2d-dc7b-4f8b-bd2c-a3cc5ed2f137-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/bermuda-moletom-solar-solar-off-5-13324-22143/p",
+        "identifier": "5.13324_22143",
+        "name": "bermuda moletom solar",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_d5bf96f7-8bee-4821-b5db-ff7d31fc0054-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 101.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://doris.one/products/blusao-sueter-em-trico-com-pontos-vazados-diferenciados-rosa",
+        "identifier": "759048801",
+        "name": "Blusão Suéter Em Tricô Com Pontos Vazados DIferenciados Rosa",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_c6a48b37-f6f0-492f-a387-2a0059f5bfb3-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 159.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-reserva-old-wave0066380/p?skuId=409308",
+        "identifier": "0066380810",
+        "name": "Camiseta Estampada Reserva Old Wave",
+        "parent_identifier": "66380",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_dfc4e971-e3f1-4f5c-9afb-660e9e4e1996-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-big-heart0067103/p?skuId=410992",
+        "identifier": "CORINGA_0067103054",
+        "name": "Camiseta Estampada Big Heart",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_37c5c11c-0e16-495f-94cb-6ccd746380f7-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo-delave0065661/p?skuId=400364",
+        "identifier": "0065661004",
+        "name": "polo delave",
+        "parent_identifier": "0065661",
+        "thumbnail": "https://doris-storage.imgix.net/production/215553fd-e75d-47db-83fd-3f8a50c39800-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-track-palacio-do-samba0075142/p?skuId=412061",
+        "identifier": "0075142014",
+        "name": "calca track palacio do samba",
+        "parent_identifier": "75142",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_800a45b2-d00b-44af-a58d-5a799bbc8dd7-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.johnjohndenim.com.br/moda/masculino/roupas/casacos/p-casaco-john-john-new-basic-masculino-23.93.0272.html",
+        "identifier": "23.93.0272_09_1",
+        "name": "Casaco John John New Basic Masculino",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_d7134e51-a458-4e7d-9680-979a0eb28270-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 298,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camisa-popfruit-iumi-popfruit-iumi-mini-preto-5-13135-40647/p",
+        "identifier": "5.13135_40647",
+        "name": "camisa popfruit iumi",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_df928a0d-9f50-4755-8956-fed58f90520e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 118.8,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camisa-ml-enxuto-listra-conforto0065852/p?property__DESC_COR_ORIGINAL=AMARELO%20CLARO&skuId=360390",
+        "identifier": "0065852002",
+        "name": "camisa ml enxuto listra conforto",
+        "parent_identifier": "65852",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_fd604f08-7f51-42a2-b6d3-bb6be26c1ede-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-praia-estampado-folhagem-klein0066489/p?skuId=409117",
+        "identifier": "0066489005",
+        "name": "short praia estampado folhagem klein",
+        "parent_identifier": "66489",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/short_a16fe640-6e9f-4a31-9a7e-e63ce0a8f086-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://www.hering.com.br/camisa-em-sarja-masculina-manga-longa-h2mwhmksn/p",
+        "identifier": "H2MWHMKSN",
+        "name": "Camisa Em Sarja Masculina Manga Longa - Marrom",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_b0f67925-e5ee-4a6d-9fd2-36ae7a4be79c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 168.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-barrado-sol-20066329/p?skuId=409475",
+        "identifier": "0066329010",
+        "name": "Camiseta Estampada Barrado Sol 2",
+        "parent_identifier": "66329",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_9c3f20a0-9de8-4c38-9387-7531b6bdf1ba-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-carnaval-sp0075117/p?skuId=412218",
+        "identifier": "0075117014",
+        "name": "Camiseta Estampada Carnaval Sp",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_12e54019-7f5f-4c00-8966-af22f48e76f6-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camisa-estampada-mc-palacio-do-samba0075136/p?skuId=412067",
+        "identifier": "0075136014",
+        "name": "camisa estampada mc palacio do samba",
+        "parent_identifier": "75136",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_e6f8f7ec-941a-4104-b880-8c0a73ebf90a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-basquiat-dinosaur0079031/p?skuId=414118",
+        "identifier": "0079031014",
+        "name": "Camiseta Basquiat Dinosaur",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_df3280f3-9a94-4086-9dc6-90c21984f040-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/BERMUDA-ESPINHA-DE-PEIXE-ONE0072923/p?skuId=433096",
+        "identifier": "0072923312",
+        "name": "bermuda espinha de peixe one",
+        "parent_identifier": "0072923",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_3e274191-976b-4227-93e6-20ca6eae9e4b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/moletom-careca-basquiat-logo0079024/p?skuId=414208",
+        "identifier": "0079024014",
+        "name": "Moletom Careca Basquiat Logo",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/sweatshirt_fe7a3af7-d7d3-4a62-98ef-76a8efc27314-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "sweatshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/SUETER-MOLETOM-LONDRES0071384/p?skuId=433745",
+        "identifier": "0071384577",
+        "name": "SUETER MOLETOM LONDRES",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_ab92bef1-521b-4863-978b-19f83d5d327d-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://doris.one/products/bermuda-slim-jeans-com-bolsos-cargo-laterais-azul",
+        "identifier": "786648297",
+        "name": "Bermuda Slim Jeans Com Bolsos Cargo Laterais Azul",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_6f5e93ff-211b-4f15-b02c-a06cc56cefda-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 139.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/camisa-bordado-ferias-off-white-5-12937-0024/p",
+        "identifier": "5.12937_0024",
+        "name": "camisa bordado ferias",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_03475311-b8ff-407a-af0f-593163fea97f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 149.5,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/hoodie-moletom-estampado-agua-viva0071458/p?skuId=433690",
+        "identifier": "0071458040",
+        "name": "hoodie moletom estampado agua viva",
+        "parent_identifier": "0071458",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_b6ebcc07-df29-472d-9720-8b341ac6cac1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-indaia0071331/p",
+        "identifier": "0071331312",
+        "name": "calca indaia",
+        "parent_identifier": "0071331",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_c3bcc738-4582-4302-a6b7-8ec239cefdb7-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-sarja-color0066197/p?skuId=410408",
+        "identifier": "0066197070",
+        "name": "bermuda sarja color",
+        "parent_identifier": "66197",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/bermuda_14ed48b7-6bb9-46bd-ac64-77f6fc21ef64-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camisa-com-manga-bufante-e-botao-de-morango-branco",
+        "identifier": "625796571",
+        "name": "Camisa Com Manga Bufante E Botão De Morango Branco",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_202654f6-8555-41d0-a814-ec866c319e80-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 139.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-malha-linho-listrada0065742/p?skuId=410492",
+        "identifier": "0065742313",
+        "name": "camiseta malha linho listrada",
+        "parent_identifier": "65742",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_9fce248e-eb23-41e6-918a-06184426d288-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/short-praia-estampado-green-forest0066335/p?skuId=399917",
+        "identifier": "0066335051",
+        "name": "short praia estampado green forest",
+        "parent_identifier": "0066335",
+        "thumbnail": "https://doris-storage.imgix.net/production/265e8644-6e4a-4bd8-8f47-54b8408b8efc-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "bermuda"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/jaqueta-windbreak-ripstop0067007/p?skuId=413725",
+        "identifier": "0067007010",
+        "name": "Jaqueta Windbreak Ripstop",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_6aa514a6-b03f-4911-ba93-68215151ecc0-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "jacket"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/CAMISETA-MC-LISTRADO-NICE0070918/p?skuId=434145",
+        "identifier": "0070918312",
+        "name": "CAMISETA MC LISTRADO NICE",
+        "parent_identifier": "70918",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_5e44529a-e67b-4e9e-b636-ce70d3801c5c-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/polo-royale-azul-brunello-cucinelli",
+        "identifier": "TO_PO_0053",
+        "name": "POLO ROYALE AZUL - BRUNELLO CUCINELLI",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/140d9f93-ed94-4ec1-99a5-5ee07514f304-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 3600,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-praia-onda0071818/p?skuId=433427",
+        "identifier": "0071818312",
+        "name": "camiseta estampada praia onda",
+        "parent_identifier": "71818",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_420365f8-44ef-4447-af54-2084d7ca671a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/bermuda-atoalhada-lisa0067086/p?skuId=362042",
+        "identifier": "0067086054",
+        "name": "bermuda atoalhada lisa",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/short_9a77b6b6-6e88-44d5-ad64-1e38f6269196-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 609,
+        "selling_price": 304,
+        "active": true,
+        "category": {
+          "name": "shorts"
+        }
+      },
+      {
+        "url": "https://doris.one/products/short-saia-curto-em-material-sintetico-com-fenda-assimetrica-preto",
+        "identifier": "784247001",
+        "name": "Short Saia Curto Em Material Sintético Com Fenda Assimétrica Preto",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/skirt_4ebf3b3e-cf93-4a74-91e5-d384fbeb8fb4-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 159.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "skirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-classico0067145/p?skuId=410576",
+        "identifier": "0067145312",
+        "name": "camiseta estampada classico",
+        "parent_identifier": "67145",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_a63c49d9-22c5-4af9-9328-595d4da328a1-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-ft-linho-sol0066601/p?property__DESC_COR_ORIGINAL=AZUL%20CLARO&skuId=360998",
+        "identifier": "0066601054",
+        "name": "camiseta linho sol",
+        "parent_identifier": "0066601",
+        "thumbnail": "https://doris-storage.imgix.net/production/ce28b355-caa0-4388-ad32-7924fda17510-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-arranjo-tropics0066402/p?skuId=409248",
+        "identifier": "0066402014",
+        "name": "camiseta estampada arranjo tropics",
+        "parent_identifier": "66402",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_436b0af9-a2c7-4f28-8d3a-d7deb6237596-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camisa-slim-com-textura-canelada-e-manga-curta-verde",
+        "identifier": "759646069",
+        "name": "Camisa Slim Com Textura Canelada E Manga Curta Verde",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_752b323f-ec20-4c28-9f7e-f3779384e76f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 159.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-d-d-treasure-of-tardos0079775/p?skuId=418273",
+        "identifier": "0079775564",
+        "name": "camiseta d&d treasure of tardos",
+        "parent_identifier": "0079775",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_de95d7f9-b276-483b-9857-899330be9507-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/CAMISA-PF-ML-LINHO0073492/p?skuId=433057",
+        "identifier": "0073492051",
+        "name": "camisa pf ml linho",
+        "parent_identifier": "0073492",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/shirt_95a47555-08d6-4f47-a54f-2ddb29a75550-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "shirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-d-d-valley-of-unicorns0079777/p?skuId=417767",
+        "identifier": "0079777564",
+        "name": "camiseta d&d valley of unicorns",
+        "parent_identifier": "0079777",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_e3d28657-a83a-4182-ba7a-c168352c3241-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/blusa-silk-alegria-colorido-5-13544-0000/p",
+        "identifier": "5.13544_0000",
+        "name": "blusa silk alegria",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_c776fb09-a2a1-42fc-83db-ac7254942855-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 89.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/polo-reserva-piquet-pala-interna-listrada3542/p?skuId=342786",
+        "identifier": "003542026",
+        "name": "Polo Reserva Piquet Pala Interna Listrada",
+        "parent_identifier": "3542026",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/poloshirt_c264abbb-e539-45a5-91b1-54e769288c5f-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "poloshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/calca-jeans-regular-bacana0067764/p?skuId=388372",
+        "identifier": "0067764040222",
+        "name": "calca jeans regular bacana 2",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/pant_f4541f60-79b3-46d0-ba93-180f36d24650-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 649,
+        "selling_price": 325,
+        "active": true,
+        "category": {
+          "name": "pants"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/moletom-careca-ultitled-skull0079026/p?skuId=414158",
+        "identifier": "0079026014",
+        "name": "Moletom Careca Ultitled Skull",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/sweatshirt_c8ecaba4-2d3a-4241-9614-4e957ebdcbad-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "sweatshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/camiseta-logo-azul-brunello-cucinelli",
+        "identifier": "TO_SH_0278",
+        "name": "CAMISETA LOGO AZUL - BRUNELLO CUCINELLI",
+        "parent_identifier": null,
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/d23248a4-3d98-4130-b3ee-98fad1da067b-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 3100,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/tricot-basico-gola-careca0072727/p?skuId=433127",
+        "identifier": "0072727503",
+        "name": "tricot basico gola careca",
+        "parent_identifier": "0072727",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_6488ddd8-110d-4723-95bb-ad0d82138713-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.afabula.com.br/casaco-moletom-bonus-est-bonus-fundo-preto-5-13359-22434/p",
+        "identifier": "5.13359_22434",
+        "name": "casaco moletom bonus",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_b5dc497d-7e09-4678-a0f0-7a9ec2fa7764-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 149.4,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/JAQUETA-CURITIBA-XADREZ-MADISON0071481/p?skuId=433660",
+        "identifier": "0071481513",
+        "name": "jaqueta curitiba xadrez madison",
+        "parent_identifier": "71481",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/jacket_c252dca6-f73b-4a96-84a6-634232f7cb82-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "coats-and-jackets"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-reserva-life-style0067291/p?skuId=410637",
+        "identifier": "0067291014",
+        "name": "camiseta estampada reserva life style",
+        "parent_identifier": "67291",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_07e3cc3d-ec12-49c0-983a-71043df6bb15-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada--logomania-tropics0066434/p?skuId=387935",
+        "identifier": "0066434037",
+        "name": "camiseta estampada  logomania tropics",
+        "parent_identifier": "0066434",
+        "thumbnail": "https://doris-storage.imgix.net/production/18aa7c24-65ef-4345-8bc7-2cfc1550684e-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-estampada-ouco-logo-existo0067109/p?skuId=410587",
+        "identifier": "0067109040",
+        "name": "Camiseta Estampada Ouco Logo Existo",
+        "parent_identifier": "67109",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_e20f2e97-d9a1-4417-b01b-3658dbaecf06-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-malha-linho-listrada0065742/p?skuId=410492",
+        "identifier": "0065742313",
+        "name": "Camiseta Malha Linho Listrada",
+        "parent_identifier": "65742",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/tshirt_1b218647-5c75-4211-85c4-9a50db57210a-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "tshirt"
+        }
+      },
+      {
+        "url": "https://doris.one/products/saia-curta-cintura-baixa-em-sarja-com-cinto-com-fivela-e-marrom",
+        "identifier": "670846241",
+        "name": "Saia Curta Cintura Baixa Em Sarja Com Cinto Com Fivela E Marrom",
+        "parent_identifier": "1",
+        "thumbnail": "https://eris-storage.s3.us-east-2.amazonaws.com/production/skirt_6dbd1055-059d-45f7-b414-e59f3929f645-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 59.9,
+        "selling_price": 0,
+        "active": true,
+        "category": {
+          "name": "skirt"
+        }
+      },
+      {
+        "url": "https://www.usereserva.com/camiseta-flame-stoned0066350/p?skuId=360903",
+        "identifier": "0066350054",
+        "name": "camiseta flame stoned",
+        "parent_identifier": "0066350",
+        "thumbnail": "https://doris-storage.imgix.net/production/a4ef83a0-0fe3-46a5-b422-58833eceebcb-outfit-thumbnail.jpg",
+        "status": "PROCESSED",
+        "list_price": 0,
+        "selling_price": 0,
+        "active": false,
+        "category": {
+          "name": "tshirt"
+        }
+      }
+    ]
+  }
+}
