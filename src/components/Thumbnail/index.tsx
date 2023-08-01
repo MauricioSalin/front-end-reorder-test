@@ -14,7 +14,12 @@ export const Thumbnail: FC<Props> = ({
   isSelected,
   onClickItem,
 }: Props) => (
-  <ThumbButton onClick={onClickItem} isSelected={isSelected} loading={loading}>
-    <Image src={src} alt="" />
+  <ThumbButton
+    data-testid="thumbnail-button"
+    onClick={onClickItem}
+    isSelected={isSelected}
+    loading={loading}
+  >
+    <Image data-testid="thumbnail-image" src={src} alt="" />
   </ThumbButton>
 );

@@ -17,11 +17,16 @@ export const Stage: FC<StageProps> = ({ imageUrl, loading, currentPrice }) => {
     });
 
   return (
-    <Container>
-      <Image data-testid="image" src={imageUrl} alt="" loading={loading} />
-      {loading && <Dots />}
+    <Container data-testid="stage-container">
+      <Image
+        data-testid="stage-image"
+        src={imageUrl}
+        alt=""
+        loading={loading}
+      />
+      {loading && <Dots data-testid="loading-dots" />}
       {currentPrice && currentPrice > 0 && (
-        <PriceTag data-testid="tag">{price}</PriceTag>
+        <PriceTag data-testid="stage-tag">{price}</PriceTag>
       )}
     </Container>
   );

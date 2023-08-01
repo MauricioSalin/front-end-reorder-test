@@ -13,11 +13,14 @@ export const Backdrop: FC<BackdropProps> = ({
   children,
   handleClear,
 }) => (
-  <Container>
-    <Header>
+  <Container data-testid="backdrop-container">
+    <Header data-testid="backdrop-header">
       <Text>Combinar</Text>
       {!loading && (
-        <ClearButton onClick={async () => await handleClear()}>
+        <ClearButton
+          data-testid="backdrop-clear-button"
+          onClick={async () => await handleClear()}
+        >
           Limpar
         </ClearButton>
       )}

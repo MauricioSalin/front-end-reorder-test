@@ -15,8 +15,6 @@ const App = () => {
     handleClearItems,
   } = useProduct();
 
-  console.log(loading);
-
   return (
     <>
       <Stage
@@ -27,8 +25,10 @@ const App = () => {
       <Backdrop handleClear={handleClearItems} loading={loading}>
         <List
           items={products}
-          renderItem={(product: Product) => (
+          renderItem={(product: Product, index: number) => (
             <Thumbnail
+              data-testid={`thumbail-item-${index}`}
+              key={index}
               src={product.thumbnail}
               onClickItem={() => handleSelectItem(product)}
               isSelected={product.isSelected}
