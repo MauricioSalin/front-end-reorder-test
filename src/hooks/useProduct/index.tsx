@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Product, MockData } from '../../types';
+import { Product } from '../../types';
 
 const MOCK_PATH = 'src/data/products.json';
 
@@ -33,6 +33,8 @@ const useProduct = () => {
   const handleSelectItem = async (item: Product) => {
     setLoading(true);
 
+    window.scrollTo(0, 0);
+
     await setTimeout(() => {
       const currentPrice = getCurrentPrice(item.list_price, item.selling_price);
       const currentItem = { ...item, isSelected: true, currentPrice };
@@ -40,9 +42,12 @@ const useProduct = () => {
       const relatedProducts = getRelatedProducts(initialProducts, item);
       const updatedProducts = [currentItem, ...relatedProducts].slice(0, 20);
 
+      console.log(currentItem);
+
+      setSelectedProduct(currentItem);
       setProducts(updatedProducts);
       setLoading(false);
-    }, 800); // loading test
+    }, 900); // loading test
   };
 
   const handleClearItems = async () => {
@@ -53,17 +58,17 @@ const useProduct = () => {
       setSelectedProduct(initialProducts[0]);
 
       setLoading(false);
-    }, 1600); // loading test
+    }, 900); // loading test
   };
 
   useEffect(() => {
     const fetchData = async () => {
       try {
         const response = await fetch(MOCK_PATH);
-        const jsonData = (await response.json()) as MockData;
-        const currentProducts = jsonData.data.product.slice(0, 20);
+        const jsonData = await response.json();
+        const currentProducts = jsonData.data.product;
 
-        setProducts(currentProducts);
+        setProducts(currentProducts.slice(0, 20));
         setInitialProducts(currentProducts);
         setSelectedProduct(currentProducts[0]);
         setLoading(false);
