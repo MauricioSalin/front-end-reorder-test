@@ -1,29 +1,41 @@
-import { Stage } from "./components/Stage";
-import { Backdrop } from "./components/Backdrop";
-import { List } from "./components/List";
+import { List } from './components/List';
+import { Stage } from './components/Stage';
+import { Product } from './types';
+import { Backdrop } from './components/Backdrop';
+import { Thumbnail } from './components/Thumbnail';
+
+import useProduct from './hooks/useProduct';
 
 const App = () => {
+  const {
+    loading,
+    products,
+    selectedProduct,
+    handleSelectItem,
+    handleClearItems,
+  } = useProduct();
+
+  console.log(loading);
+
   return (
     <>
       <Stage
-        imageUrl="https://lojausereserva.vtexassets.com/arquivos/ids/7956078-1200-auto?v=638248721303730000&width=1200&height=auto&aspect=true"
-        currentPrice="R$ 269,99"
+        imageUrl={selectedProduct.thumbnail}
+        currentPrice={selectedProduct.currentPrice}
+        loading={loading}
       />
-      <Backdrop>
-        <List>
-          <button>
-            <img
-              style={{
-                width: 100,
-                height: 100,
-                objectFit: "cover",
-                margin: "0 10px",
-              }}
-              src="https://lojausereserva.vtexassets.com/arquivos/ids/7956077-1200-auto?v=638248721291830000&width=1200&height=auto&aspect=true"
-              alt=""
+      <Backdrop handleClear={handleClearItems} loading={loading}>
+        <List
+          items={products}
+          renderItem={(product: Product) => (
+            <Thumbnail
+              src={product.thumbnail}
+              onClickItem={() => handleSelectItem(product)}
+              isSelected={product.isSelected}
+              loading={loading}
             />
-          </button>
-        </List>
+          )}
+        />
       </Backdrop>
     </>
   );
