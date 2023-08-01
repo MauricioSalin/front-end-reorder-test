@@ -33,8 +33,6 @@ const useProduct = () => {
   const handleSelectItem = async (item: Product) => {
     setLoading(true);
 
-    window.scrollTo(0, 0);
-
     await setTimeout(() => {
       const currentPrice = getCurrentPrice(item.list_price, item.selling_price);
       const currentItem = { ...item, isSelected: true, currentPrice };
@@ -42,10 +40,15 @@ const useProduct = () => {
       const relatedProducts = getRelatedProducts(initialProducts, item);
       const updatedProducts = [currentItem, ...relatedProducts].slice(0, 20);
 
-      console.log(currentItem);
-
       setSelectedProduct(currentItem);
       setProducts(updatedProducts);
+
+      document.getElementById('list-wrapper')?.scrollTo({
+        top: 0,
+        left: 0,
+        behavior: 'smooth',
+      });
+
       setLoading(false);
     }, 900); // loading test
   };
@@ -54,7 +57,7 @@ const useProduct = () => {
     setLoading(true);
 
     await setTimeout(() => {
-      setProducts(initialProducts);
+      setProducts(initialProducts.slice(0, 20));
       setSelectedProduct(initialProducts[0]);
 
       setLoading(false);
