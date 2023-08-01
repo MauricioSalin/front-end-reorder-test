@@ -14,9 +14,3 @@ export interface Product {
   isSelected?: boolean;
   currentPrice?: number;
 }
-
-export interface MockData {
-  data: {
-    product: Product[];
-  };
-}
